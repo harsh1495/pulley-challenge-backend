@@ -22,7 +22,7 @@ class PageSimilarity:
                     self.final_file_names.append(filename)
                     filepath = os.path.join(
                         PLAYS_DIRECTORY, document[0], "processed_pages", filename)
-                    with open(filepath, 'r') as file:
+                    with open(filepath, 'r', encoding="latin-1") as file:
                         page_text = file.read()
 
                     pages_corpus.append(page_text)
