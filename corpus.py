@@ -17,6 +17,7 @@ class Corpus:
             if filename.endswith(".txt"):
                 filepath = os.path.join(
                     PROCESSED_DOCUMENTS_DIRECTORY, filename)
+                print(filepath)
                 with open(filepath, 'r') as file:
                     document_text = file.read()
 
