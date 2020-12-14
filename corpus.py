@@ -17,7 +17,7 @@ class Corpus:
             if filename.endswith(".txt"):
                 filepath = os.path.join(
                     PROCESSED_DOCUMENTS_DIRECTORY, filename)
-                with open(filepath, 'r', encoding="utf-8") as file:
+                with open(filepath, 'r') as file:
                     document_text = file.read()
 
                 self.all_processed_docs.append(document_text)
