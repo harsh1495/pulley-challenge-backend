@@ -17,7 +17,7 @@ SEARCH_RESULTS_START_POSITION = 1
 res = Response()
 
 # cross-origin resource sharing
-cors = CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
+cors = CORS(app, resources={r"/*": {"origins": "*"}})
 
 
 @app.after_request
