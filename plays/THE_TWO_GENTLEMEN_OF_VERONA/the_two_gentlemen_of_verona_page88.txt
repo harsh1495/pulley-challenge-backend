@@ -1,0 +1,19 @@
+
+    knit him a stock.
+  SPEED. 'Item: She can wash and scour.'
+  LAUNCE. A special virtue; for then she need not be wash'd and
+    scour'd.
+  SPEED. 'Item: She can spin.'
+  LAUNCE. Then may I set the world on wheels, when she can spin for
+    her living.
+  SPEED. 'Item: She hath many nameless virtues.'
+  LAUNCE. That's as much as to say 'bastard virtues'; that indeed
+    know not their fathers, and therefore have no names.
+  SPEED. 'Here follow her vices.'
+  LAUNCE. Close at the heels of her virtues.
+  SPEED. 'Item: She is not to be kiss'd fasting, in respect of her
+    breath.'
+  LAUNCE. Well, that fault may be mended with a breakfast.
+    Read on.
+  SPEED. 'Item: She hath a sweet mouth.'
+  LAUNCE. That makes amends for her sour breath.
