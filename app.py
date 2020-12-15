@@ -56,11 +56,9 @@ def get_search_results():
             data = res.get_error_response_no_results()
             return json.dumps(data), 200
 
-        print(top_search_pages)
         print(len(top_search_pages))
 
         data = res.format_results(top_search_pages, start, size)
-        print(len(data))
         return json.dumps({"results": data, "total_count": len(top_search_pages), "current_count": len(data)}), 200
 
     except:

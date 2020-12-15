@@ -25,7 +25,6 @@ class DocumentSimilarity:
 
         # perform a similarity query against the corpus
         query_doc_tf_idf = TF_IDF_MATRIX[query_doc_bow]
-        print('Comparing Result:', SIMILARITY_MATRIX[query_doc_tf_idf])
         results = SIMILARITY_MATRIX[query_doc_tf_idf]
         return results
 
