@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 # globals
 SEARCH_RESULTS_SIZE_PER_PAGE = 10
-SEARCH_RESULTS_START_POSITION = 1
+SEARCH_RESULTS_START_POSITION = 0
 
 # response object
 res = Response()
