@@ -4,7 +4,7 @@ LEAR.
 A pestilent gall to me!
 
 FOOL.
-Sirrah, I’ll teach thee a speech.
+Sirrah, I'll teach thee a speech.
 
 LEAR.
 Do.
@@ -26,8 +26,8 @@ KENT.
 This is nothing, fool.
 
 FOOL.
-Then ’tis like the breath of an unfee’d lawyer, you gave me nothing
-for’t. Can you make no use of nothing, nuncle?
+Then 'tis like the breath of an unfee'd lawyer, you gave me nothing
+for't. Can you make no use of nothing, nuncle?
 
 LEAR.
 Why, no, boy; nothing can be made out of nothing.
@@ -47,7 +47,7 @@ LEAR.
 No, lad; teach me.
 
 FOOL.
-   That lord that counsell’d thee
+   That lord that counsell'd thee
      To give away thy land,
    Come place him here by me,
      Do thou for him stand.

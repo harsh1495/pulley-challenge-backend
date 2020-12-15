@@ -10,7 +10,7 @@ DUKE.
 Who was it?
 
 CURIO.
-Feste, the jester, my lord, a fool that the Lady Olivia’s father took
+Feste, the jester, my lord, a fool that the Lady Olivia's father took
 much delight in. He is about the house.
 
 DUKE.
@@ -23,7 +23,7 @@ In the sweet pangs of it remember me:
 For such as I am, all true lovers are,
 Unstaid and skittish in all motions else,
 Save in the constant image of the creature
-That is belov’d. How dost thou like this tune?
+That is belov'd. How dost thou like this tune?
 
 VIOLA.
 It gives a very echo to the seat
@@ -31,4 +31,4 @@ Where love is throned.
 
 DUKE.
 Thou dost speak masterly.
-My life upon’t, young though thou art, thine eye
+My life upon't, young though thou art, thine eye

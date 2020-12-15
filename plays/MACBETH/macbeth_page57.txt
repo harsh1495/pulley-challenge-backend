@@ -1,7 +1,7 @@
 
 
 MACDUFF.
-No, cousin, I’ll to Fife.
+No, cousin, I'll to Fife.
 
 ROSS.
 Well, I will thither.
@@ -14,7 +14,7 @@ ROSS.
 Farewell, father.
 
 OLD MAN.
-God’s benison go with you; and with those
+God's benison go with you; and with those
 That would make good of bad, and friends of foes!
 
  [_Exeunt._]
@@ -28,8 +28,8 @@ SCENE I. Forres. A Room in the Palace.
 
 BANQUO.
 Thou hast it now, King, Cawdor, Glamis, all,
-As the Weird Women promis’d; and, I fear,
-Thou play’dst most foully for’t; yet it was said
+As the Weird Women promis'd; and, I fear,
+Thou play'dst most foully for't; yet it was said
 It should not stand in thy posterity;
 But that myself should be the root and father
 Of many kings. If there come truth from them

@@ -5,12 +5,12 @@ Hark you, Guildenstern, and you too, at each ear a hearer. That great
 baby you see there is not yet out of his swaddling clouts.
 
 ROSENCRANTZ.
-Happily he’s the second time come to them; for they say an old man is
+Happily he's the second time come to them; for they say an old man is
 twice a child.
 
 HAMLET.
 I will prophesy he comes to tell me of the players. Mark it.—You say
-right, sir: for a Monday morning ’twas so indeed.
+right, sir: for a Monday morning 'twas so indeed.
 
 POLONIUS.
 My lord, I have news to tell you.
@@ -45,8 +45,8 @@ What treasure had he, my lord?
 
 HAMLET.
 Why—
-   ’One fair daughter, and no more,
-   The which he loved passing well.’
+   'One fair daughter, and no more,
+   The which he loved passing well.'
 
 POLONIUS.
 [_Aside._] Still on my daughter.

@@ -1,15 +1,15 @@
 
 
 KING.
-Do you think ’tis this?
+Do you think 'tis this?
 
 QUEEN.
 It may be, very likely.
 
 POLONIUS.
-Hath there been such a time, I’d fain know that,
-That I have positively said ‘’Tis so,’
-When it prov’d otherwise?
+Hath there been such a time, I'd fain know that,
+That I have positively said ''Tis so,'
+When it prov'd otherwise?
 
 KING.
 Not that I know.
@@ -32,10 +32,10 @@ QUEEN.
 So he does indeed.
 
 POLONIUS.
-At such a time I’ll loose my daughter to him.
+At such a time I'll loose my daughter to him.
 Be you and I behind an arras then,
 Mark the encounter. If he love her not,
-And be not from his reason fall’n thereon,
+And be not from his reason fall'n thereon,
 Let me be no assistant for a state,
 But keep a farm and carters.
 
@@ -49,7 +49,7 @@ But look where sadly the poor wretch comes reading.
 
 POLONIUS.
 Away, I do beseech you, both away
-I’ll board him presently. O, give me leave.
+I'll board him presently. O, give me leave.
 
  [_Exeunt King, Queen and Attendants._]
 
@@ -62,7 +62,7 @@ POLONIUS.
 Do you know me, my lord?
 
 HAMLET.
-Excellent well. You’re a fishmonger.
+Excellent well. You're a fishmonger.
 
 POLONIUS.
 Not I, my lord.

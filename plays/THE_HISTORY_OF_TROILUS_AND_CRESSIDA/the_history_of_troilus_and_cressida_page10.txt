@@ -4,7 +4,7 @@ PANDARUS.
 Who, Troilus? Troilus is the better man of the two.
 
 CRESSIDA.
-O Jupiter! there’s no comparison.
+O Jupiter! there's no comparison.
 
 PANDARUS.
 What, not between Troilus and Hector? Do you know a man if you see him?
@@ -22,7 +22,7 @@ PANDARUS.
 No, nor Hector is not Troilus in some degrees.
 
 CRESSIDA.
-’Tis just to each of them: he is himself.
+'Tis just to each of them: he is himself.
 
 PANDARUS.
 Himself! Alas, poor Troilus! I would he were!
@@ -37,7 +37,7 @@ CRESSIDA.
 He is not Hector.
 
 PANDARUS.
-Himself! no, he’s not himself. Would a’ were himself! Well, the gods
+Himself! no, he's not himself. Would a' were himself! Well, the gods
 are above; time must friend or end. Well, Troilus, well! I would my
 heart were in her body! No, Hector is not a better man than Troilus.
 
@@ -51,5 +51,5 @@ CRESSIDA.
 Pardon me, pardon me.
 
 PANDARUS.
-Th’other’s not come to’t; you shall tell me another tale when
-th’other’s come to’t. Hector shall not have his wit this year.
+Th'other's not come to't; you shall tell me another tale when
+th'other's come to't. Hector shall not have his wit this year.

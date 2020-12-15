@@ -7,10 +7,10 @@ NESTOR.
 Peace, drums!
 
 SOLDIERS.
-[_Within_.] Achilles! Achilles! Hector’s slain. Achilles!
+[_Within_.] Achilles! Achilles! Hector's slain. Achilles!
 
 DIOMEDES.
-The bruit is, Hector’s slain, and by Achilles.
+The bruit is, Hector's slain, and by Achilles.
 
 AJAX.
 If it be so, yet bragless let it be;
@@ -41,8 +41,8 @@ ALL.
 Hector! The gods forbid!
 
 TROILUS.
-He’s dead, and at the murderer’s horse’s tail,
-In beastly sort, dragg’d through the shameful field.
+He's dead, and at the murderer's horse's tail,
+In beastly sort, dragg'd through the shameful field.
 Frown on, you heavens, effect your rage with speed.
 Sit, gods, upon your thrones, and smile at Troy.
 I say at once let your brief plagues be mercy,

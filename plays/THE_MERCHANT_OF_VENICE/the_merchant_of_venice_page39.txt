@@ -20,10 +20,10 @@ GOBBO.
 That is the very defect of the matter, sir.
 
 BASSANIO.
-I know thee well; thou hast obtain’d thy suit.
+I know thee well; thou hast obtain'd thy suit.
 Shylock thy master spoke with me this day,
-And hath preferr’d thee, if it be preferment
-To leave a rich Jew’s service to become
+And hath preferr'd thee, if it be preferment
+To leave a rich Jew's service to become
 The follower of so poor a gentleman.
 
 LAUNCELET.
@@ -31,4 +31,4 @@ The old proverb is very well parted between my master Shylock and you,
 sir: you have “the grace of God”, sir, and he hath “enough”.
 
 BASSANIO.
-Thou speak’st it well. Go, father, with thy son.
+Thou speak'st it well. Go, father, with thy son.

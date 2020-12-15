@@ -6,7 +6,7 @@ SCENE VII. The same. Another part of the Plain.
 
 MACBETH.
 They have tied me to a stake. I cannot fly,
-But, bear-like I must fight the course.—What’s he
+But, bear-like I must fight the course.—What's he
 That was not born of woman? Such a one
 Am I to fear, or none.
 
@@ -16,14 +16,14 @@ YOUNG SIWARD.
 What is thy name?
 
 MACBETH.
-Thou’lt be afraid to hear it.
+Thou'lt be afraid to hear it.
 
 YOUNG SIWARD.
-No; though thou call’st thyself a hotter name
+No; though thou call'st thyself a hotter name
 Than any is in hell.
 
 MACBETH.
-My name’s Macbeth.
+My name's Macbeth.
 
 YOUNG SIWARD.
 The devil himself could not pronounce a title
@@ -34,6 +34,6 @@ No, nor more fearful.
 
 YOUNG SIWARD.
 Thou liest, abhorred tyrant. With my sword
-I’ll prove the lie thou speak’st.
+I'll prove the lie thou speak'st.
 
  [_They fight, and young Siward is slain._]

@@ -2,18 +2,18 @@
 In drops of crimson blood.
 
 FRENCH SOLDIER.
-_Est-il impossible d’échapper la force de ton bras?_
+_Est-il impossible d'échapper la force de ton bras?_
 
 PISTOL.
 Brass, cur!
 Thou damned and luxurious mountain goat,
-Offer’st me brass?
+Offer'st me brass?
 
 FRENCH SOLDIER.
 _O pardonnez-moi!_
 
 PISTOL.
-Say’st thou me so? Is that a ton of moys?
+Say'st thou me so? Is that a ton of moys?
 Come hither, boy; ask me this slave in French
 What is his name.
 
@@ -27,7 +27,7 @@ BOY.
 He says his name is Master Fer.
 
 PISTOL.
-Master Fer! I’ll fer him, and firk him, and ferret him.
+Master Fer! I'll fer him, and firk him, and ferret him.
 Discuss the same in French unto him.
 
 BOY.
@@ -49,4 +49,4 @@ Peasant, unless thou give me crowns, brave crowns;
 Or mangled shalt thou be by this my sword.
 
 FRENCH SOLDIER.
-_O, je vous supplie, pour l’amour de Dieu, me pardonner! Je suis le
+_O, je vous supplie, pour l'amour de Dieu, me pardonner! Je suis le

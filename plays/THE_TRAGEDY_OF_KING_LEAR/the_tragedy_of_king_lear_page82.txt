@@ -13,10 +13,10 @@ How fares your grace?
  Enter Gloucester with a torch.
 
 LEAR.
-What’s he?
+What's he?
 
 KENT.
-Who’s there? What is’t you seek?
+Who's there? What is't you seek?
 
 GLOUCESTER.
 What are you there? Your names?
@@ -30,5 +30,5 @@ from tithing to tithing, and stocked, punished, and imprisoned; who
 hath had three suits to his back, six shirts to his body,
      Horse to ride, and weapon to wear.
      But mice and rats and such small deer,
-     Have been Tom’s food for seven long year.
+     Have been Tom's food for seven long year.
 Beware my follower. Peace, Smulkin; peace, thou fiend!

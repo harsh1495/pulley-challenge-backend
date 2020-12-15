@@ -1,7 +1,7 @@
 
 
 QUEEN.
-I’ll warrant you, Fear me not.
+I'll warrant you, Fear me not.
 Withdraw, I hear him coming.
 
  [_Polonius goes behind the arras._]
@@ -9,7 +9,7 @@ Withdraw, I hear him coming.
  Enter Hamlet.
 
 HAMLET.
-Now, mother, what’s the matter?
+Now, mother, what's the matter?
 
 QUEEN.
 Hamlet, thou hast thy father much offended.
@@ -27,18 +27,18 @@ QUEEN.
 Why, how now, Hamlet?
 
 HAMLET.
-What’s the matter now?
+What's the matter now?
 
 QUEEN.
 Have you forgot me?
 
 HAMLET.
 No, by the rood, not so.
-You are the Queen, your husband’s brother’s wife,
+You are the Queen, your husband's brother's wife,
 And, would it were not so. You are my mother.
 
 QUEEN.
-Nay, then I’ll set those to you that can speak.
+Nay, then I'll set those to you that can speak.
 
 HAMLET.
 Come, come, and sit you down, you shall not budge.

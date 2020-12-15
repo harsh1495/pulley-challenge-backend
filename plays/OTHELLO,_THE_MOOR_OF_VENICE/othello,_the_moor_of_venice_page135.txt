@@ -1,12 +1,12 @@
 
 
 OTHELLO.
-Yes. ’Tis Emilia, by and by. She’s dead.
-’Tis like she comes to speak of Cassio’s death;
+Yes. 'Tis Emilia, by and by. She's dead.
+'Tis like she comes to speak of Cassio's death;
 The noise was high.—Ha! no more moving?
-Still as the grave. Shall she come in? Were’t good?
-I think she stirs again; no. What’s best to do?
-If she come in, she’ll sure speak to my wife.
+Still as the grave. Shall she come in? Were't good?
+I think she stirs again; no. What's best to do?
+If she come in, she'll sure speak to my wife.
 My wife! my wife! what wife? I have no wife.
 O, insupportable! O heavy hour!
 Methinks it should be now a huge eclipse
@@ -26,10 +26,10 @@ Where art thou?
 
  Enter Emilia.
 
-What’s the matter with thee now?
+What's the matter with thee now?
 
 EMILIA.
-O, my good lord, yonder’s foul murders done!
+O, my good lord, yonder's foul murders done!
 
 OTHELLO.
 What, now?
@@ -43,5 +43,5 @@ She comes more nearer earth than she was wont
 And makes men mad.
 
 EMILIA.
-Cassio, my lord, hath kill’d a young Venetian
-Call’d Roderigo.
+Cassio, my lord, hath kill'd a young Venetian
+Call'd Roderigo.

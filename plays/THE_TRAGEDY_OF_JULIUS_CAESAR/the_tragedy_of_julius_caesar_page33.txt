@@ -12,7 +12,7 @@ We will awake him, and be sure of him.
 
 ACT II
 
-SCENE I. Rome. Brutus’ orchard.
+SCENE I. Rome. Brutus' orchard.
 
  Enter Brutus.
 
@@ -26,7 +26,7 @@ When, Lucius, when? Awake, I say! What, Lucius!
  Enter Lucius.
 
 LUCIUS.
-Call’d you, my lord?
+Call'd you, my lord?
 
 BRUTUS.
 Get me a taper in my study, Lucius:
@@ -40,5 +40,5 @@ I will, my lord.
 BRUTUS.
 It must be by his death: and for my part,
 I know no personal cause to spurn at him,
-But for the general. He would be crown’d:
-How that might change his nature, there’s the question.
+But for the general. He would be crown'd:
+How that might change his nature, there's the question.

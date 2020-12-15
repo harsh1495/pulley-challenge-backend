@@ -4,13 +4,13 @@ CASSIUS.
 Brutus, a word with you.
 [_Aside to Brutus._] You know not what you do. Do not consent
 That Antony speak in his funeral.
-Know you how much the people may be mov’d
+Know you how much the people may be mov'd
 By that which he will utter?
 
 BRUTUS.
 [_Aside to Cassius._] By your pardon:
 I will myself into the pulpit first,
-And show the reason of our Caesar’s death.
+And show the reason of our Caesar's death.
 What Antony shall speak, I will protest
 He speaks by leave and by permission;
 And that we are contented Caesar shall
@@ -21,7 +21,7 @@ CASSIUS.
 [_Aside to Brutus._] I know not what may fall; I like it not.
 
 BRUTUS.
-Mark Antony, here, take you Caesar’s body.
+Mark Antony, here, take you Caesar's body.
 You shall not in your funeral speech blame us,
 But speak all good you can devise of Caesar,
-And say you do’t by our permission;
+And say you do't by our permission;

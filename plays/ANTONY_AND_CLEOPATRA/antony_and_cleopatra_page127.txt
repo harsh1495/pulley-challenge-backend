@@ -1,7 +1,7 @@
 
 
 
-SCENE I. Caesar’s Camp before Alexandria.
+SCENE I. Caesar's Camp before Alexandria.
 
  Enter Caesar, Agrippa, Dolabella, Maecenas, Gallus, Proculeius with
  his council of war.
@@ -19,7 +19,7 @@ Caesar, I shall.
  Enter Dercetus with the sword of Antony.
 
 CAESAR.
-Wherefore is that? And what art thou that dar’st
+Wherefore is that? And what art thou that dar'st
 Appear thus to us?
 
 DERCETUS.
@@ -29,11 +29,11 @@ Best to be served. Whilst he stood up and spoke,
 He was my master, and I wore my life
 To spend upon his haters. If thou please
 To take me to thee, as I was to him
-I’ll be to Caesar; if thou pleasest not,
+I'll be to Caesar; if thou pleasest not,
 I yield thee up my life.
 
 CAESAR.
-What is’t thou say’st?
+What is't thou say'st?
 
 DERCETUS.
 I say, O Caesar, Antony is dead.

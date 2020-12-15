@@ -1,6 +1,6 @@
 
 
-SCENE IV. Rossillon. A room in the Countess’s palace.
+SCENE IV. Rossillon. A room in the Countess's palace.
 
  Enter Countess and Steward.
 
@@ -10,7 +10,7 @@ Might you not know she would do as she has done,
 By sending me a letter? Read it again.
 
 STEWARD.
-[_Reads._] _I am Saint Jaques’ pilgrim, thither gone.
+[_Reads._] _I am Saint Jaques' pilgrim, thither gone.
 Ambitious love hath so in me offended
 That barefoot plod I the cold ground upon,
 With sainted vow my faults to have amended.

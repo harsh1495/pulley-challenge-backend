@@ -13,14 +13,14 @@ _Oscorbidulchos volivorco._
 
 FIRST SOLDIER.
 The General is content to spare thee yet;
-And, hoodwink’d as thou art, will lead thee on
+And, hoodwink'd as thou art, will lead thee on
 To gather from thee. Haply thou mayst inform
 Something to save thy life.
 
 PAROLLES.
 O, let me live,
-And all the secrets of our camp I’ll show,
-Their force, their purposes; nay, I’ll speak that
+And all the secrets of our camp I'll show,
+Their force, their purposes; nay, I'll speak that
 Which you will wonder at.
 
 FIRST SOLDIER.
@@ -46,5 +46,5 @@ SECOND SOLDIER.
 Captain, I will.
 
 FIRST LORD.
-’A will betray us all unto ourselves;
+'A will betray us all unto ourselves;
 Inform on that.

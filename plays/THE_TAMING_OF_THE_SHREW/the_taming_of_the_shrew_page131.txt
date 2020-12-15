@@ -1,7 +1,7 @@
 
 
 BIONDELLO.
-Help, help, help! here’s a madman will murder me.
+Help, help, help! here's a madman will murder me.
 
 [_Exit._]
 
@@ -11,7 +11,7 @@ Help, son! help, Signior Baptista!
 [_Exit from the window._]
 
 PETRUCHIO.
-Prithee, Kate, let’s stand aside and see the end of this controversy.
+Prithee, Kate, let's stand aside and see the end of this controversy.
 
 [_They retire._]
 
@@ -27,11 +27,11 @@ copatain hat! O, I am undone! I am undone! While I play the good
 husband at home, my son and my servant spend all at the university.
 
 TRANIO.
-How now! what’s the matter?
+How now! what's the matter?
 
 BAPTISTA.
 What, is the man lunatic?
 
 TRANIO.
 Sir, you seem a sober ancient gentleman by your habit, but your words
-show you a madman. Why, sir, what ’cerns it you if I wear pearl and
+show you a madman. Why, sir, what 'cerns it you if I wear pearl and

@@ -34,7 +34,7 @@ Hark how Troy roars; how Hecuba cries out;
 How poor Andromache shrills her dolours forth;
 Behold distraction, frenzy, and amazement,
 Like witless antics, one another meet,
-And all cry, ‘Hector! Hector’s dead! O Hector!’
+And all cry, 'Hector! Hector's dead! O Hector!'
 
 TROILUS.
 Away, away!
@@ -46,4 +46,4 @@ Thou dost thyself and all our Troy deceive.
  [_Exit_.]
 
 HECTOR.
-You are amaz’d, my liege, at her exclaim.
+You are amaz'd, my liege, at her exclaim.

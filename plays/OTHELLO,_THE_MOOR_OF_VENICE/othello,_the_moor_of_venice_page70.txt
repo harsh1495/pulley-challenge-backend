@@ -4,7 +4,7 @@ OTHELLO.
 What dost thou say, Iago?
 
 IAGO.
-Did Michael Cassio, when you woo’d my lady,
+Did Michael Cassio, when you woo'd my lady,
 Know of your love?
 
 OTHELLO.
@@ -27,7 +27,7 @@ IAGO.
 Indeed?
 
 OTHELLO.
-Indeed? Ay, indeed. Discern’st thou aught in that?
+Indeed? Ay, indeed. Discern'st thou aught in that?
 Is he not honest?
 
 IAGO.
@@ -49,7 +49,7 @@ OTHELLO.
 Think, my lord? By heaven, he echoes me,
 As if there were some monster in his thought
 Too hideous to be shown. Thou dost mean something.
-I heard thee say even now, thou lik’st not that,
+I heard thee say even now, thou lik'st not that,
 When Cassio left my wife. What didst not like?
 And when I told thee he was of my counsel
 In my whole course of wooing, thou criedst, “Indeed?”

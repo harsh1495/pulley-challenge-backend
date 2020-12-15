@@ -1,11 +1,11 @@
 
 
 LADY MACBETH.
-Alack! I am afraid they have awak’d,
-And ’tis not done. Th’ attempt and not the deed
+Alack! I am afraid they have awak'd,
+And 'tis not done. Th' attempt and not the deed
 Confounds us.—Hark!—I laid their daggers ready;
-He could not miss ’em.—Had he not resembled
-My father as he slept, I had done’t.—My husband!
+He could not miss 'em.—Had he not resembled
+My father as he slept, I had done't.—My husband!
 
  Enter Macbeth.
 
@@ -29,7 +29,7 @@ LADY MACBETH.
 Ay.
 
 MACBETH.
-Hark!—Who lies i’ th’ second chamber?
+Hark!—Who lies i' th' second chamber?
 
 LADY MACBETH.
 Donalbain.
@@ -43,4 +43,4 @@ LADY MACBETH.
 A foolish thought, to say a sorry sight.
 
 MACBETH.
-There’s one did laugh in’s sleep, and one cried, “Murder!”
+There's one did laugh in's sleep, and one cried, “Murder!”

@@ -8,7 +8,7 @@ CLOWN.
 Alas, poor man! a million of beating may come to a great matter.
 
 AUTOLYCUS.
-I am robbed, sir, and beaten; my money and apparel ta’en from me, and
+I am robbed, sir, and beaten; my money and apparel ta'en from me, and
 these detestable things put upon me.
 
 CLOWN.
@@ -19,8 +19,8 @@ A footman, sweet sir, a footman.
 
 CLOWN.
 Indeed, he should be a footman by the garments he has left with thee:
-if this be a horseman’s coat, it hath seen very hot service. Lend me
-thy hand, I’ll help thee: come, lend me thy hand.
+if this be a horseman's coat, it hath seen very hot service. Lend me
+thy hand, I'll help thee: come, lend me thy hand.
 
  [_Helping him up._]
 
@@ -37,7 +37,7 @@ CLOWN.
 How now! canst stand?
 
 AUTOLYCUS.
-Softly, dear sir! [_Picks his pocket._] good sir, softly. You ha’ done
+Softly, dear sir! [_Picks his pocket._] good sir, softly. You ha' done
 me a charitable office.
 
 CLOWN.

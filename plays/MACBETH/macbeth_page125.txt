@@ -2,14 +2,14 @@
 
 LADY MACBETH.
 Wash your hands, put on your nightgown; look not so pale. I tell you
-yet again, Banquo’s buried; he cannot come out on’s grave.
+yet again, Banquo's buried; he cannot come out on's grave.
 
 DOCTOR.
 Even so?
 
 LADY MACBETH.
-To bed, to bed. There’s knocking at the gate. Come, come, come, come,
-give me your hand. What’s done cannot be undone. To bed, to bed, to
+To bed, to bed. There's knocking at the gate. Come, come, come, come,
+give me your hand. What's done cannot be undone. To bed, to bed, to
 bed.
 
  [_Exit._]
@@ -21,7 +21,7 @@ GENTLEWOMAN.
 Directly.
 
 DOCTOR.
-Foul whisp’rings are abroad. Unnatural deeds
+Foul whisp'rings are abroad. Unnatural deeds
 Do breed unnatural troubles: infected minds
 To their deaf pillows will discharge their secrets.
 More needs she the divine than the physician.—

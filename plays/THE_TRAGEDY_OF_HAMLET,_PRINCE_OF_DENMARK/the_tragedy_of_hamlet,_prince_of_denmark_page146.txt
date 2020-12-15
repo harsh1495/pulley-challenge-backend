@@ -13,9 +13,9 @@ This warlike volley.
 
 HAMLET.
 O, I die, Horatio.
-The potent poison quite o’er-crows my spirit:
+The potent poison quite o'er-crows my spirit:
 I cannot live to hear the news from England,
-But I do prophesy th’election lights
+But I do prophesy th'election lights
 On Fortinbras. He has my dying voice.
 So tell him, with the occurrents more and less,
 Which have solicited. The rest is silence.
@@ -48,4 +48,4 @@ FIRST AMBASSADOR.
 The sight is dismal;
 And our affairs from England come too late.
 The ears are senseless that should give us hearing,
-To tell him his commandment is fulfill’d,
+To tell him his commandment is fulfill'd,

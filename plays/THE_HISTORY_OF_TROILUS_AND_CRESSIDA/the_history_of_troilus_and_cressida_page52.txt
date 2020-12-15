@@ -10,8 +10,8 @@ ACHILLES.
 O, tell, tell,
 
 THERSITES.
-I’ll decline the whole question. Agamemnon commands Achilles; Achilles
-is my lord; I am Patroclus’ knower; and Patroclus is a fool.
+I'll decline the whole question. Agamemnon commands Achilles; Achilles
+is my lord; I am Patroclus' knower; and Patroclus is a fool.
 
 PATROCLUS.
 You rascal!
@@ -20,7 +20,7 @@ THERSITES.
 Peace, fool! I have not done.
 
 ACHILLES.
-He is a privileg’d man. Proceed, Thersites.
+He is a privileg'd man. Proceed, Thersites.
 
 THERSITES.
 Agamemnon is a fool; Achilles is a fool; Thersites is a fool; and, as
@@ -44,7 +44,7 @@ comes here?
  Enter Agamemnon, Ulysses, Nestor, Diomedes, Ajax and Calchas.
 
 ACHILLES.
-Come, Patroclus, I’ll speak with nobody. Come in with me, Thersites.
+Come, Patroclus, I'll speak with nobody. Come in with me, Thersites.
 
  [_Exit_.]
 

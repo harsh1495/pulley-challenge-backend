@@ -4,13 +4,13 @@ OLIVIA.
 Cross-gartered?
 
 MALVOLIO.
-‘Go to: thou art made, if thou desir’st to be so:’—
+'Go to: thou art made, if thou desir'st to be so:'—
 
 OLIVIA.
 Am I made?
 
 MALVOLIO.
-‘If not, let me see thee a servant still.’
+'If not, let me see thee a servant still.'
 
 OLIVIA.
 Why, this is very midsummer madness.
@@ -18,15 +18,15 @@ Why, this is very midsummer madness.
  Enter Servant.
 
 SERVANT.
-Madam, the young gentleman of the Count Orsino’s is returned; I could
-hardly entreat him back. He attends your ladyship’s pleasure.
+Madam, the young gentleman of the Count Orsino's is returned; I could
+hardly entreat him back. He attends your ladyship's pleasure.
 
 OLIVIA.
-I’ll come to him.
+I'll come to him.
 
  [_Exit Servant._]
 
-Good Maria, let this fellow be looked to. Where’s my cousin Toby? Let
+Good Maria, let this fellow be looked to. Where's my cousin Toby? Let
 some of my people have a special care of him; I would not have him
 miscarry for the half of my dowry.
 

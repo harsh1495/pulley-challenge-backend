@@ -11,7 +11,7 @@ AGAMEMNON.
 We go wrong, we go wrong.
 
 AJAX.
-No, yonder ’tis;
+No, yonder 'tis;
 There, where we see the lights.
 
 HECTOR.
@@ -33,7 +33,7 @@ So now, fair Prince of Troy, I bid good night;
 Ajax commands the guard to tend on you.
 
 HECTOR.
-Thanks, and good night to the Greeks’ general.
+Thanks, and good night to the Greeks' general.
 
 MENELAUS.
 Good night, my lord.
@@ -42,7 +42,7 @@ HECTOR.
 Good night, sweet Lord Menelaus.
 
 THERSITES.
-Sweet draught! ‘Sweet’ quoth a’!
+Sweet draught! 'Sweet' quoth a'!
 Sweet sink, sweet sewer!
 
 ACHILLES.

@@ -10,14 +10,14 @@ Why, very well then. You must not think, then, that I am drunk.
  [_Exit._]
 
 MONTANO.
-To the platform, masters. Come, let’s set the watch.
+To the platform, masters. Come, let's set the watch.
 
 IAGO.
 You see this fellow that is gone before,
 He is a soldier fit to stand by Cæsar
 And give direction: and do but see his vice,
-’Tis to his virtue a just equinox,
-The one as long as th’ other. ’Tis pity of him.
+'Tis to his virtue a just equinox,
+The one as long as th' other. 'Tis pity of him.
 I fear the trust Othello puts him in,
 On some odd time of his infirmity,
 Will shake this island.
@@ -26,8 +26,8 @@ MONTANO.
 But is he often thus?
 
 IAGO.
-’Tis evermore the prologue to his sleep:
-He’ll watch the horologe a double set
+'Tis evermore the prologue to his sleep:
+He'll watch the horologe a double set
 If drink rock not his cradle.
 
 MONTANO.
@@ -46,5 +46,5 @@ I pray you, after the lieutenant; go.
  [_Exit Roderigo._]
 
 MONTANO.
-And ’tis great pity that the noble Moor
+And 'tis great pity that the noble Moor
 Should hazard such a place as his own second

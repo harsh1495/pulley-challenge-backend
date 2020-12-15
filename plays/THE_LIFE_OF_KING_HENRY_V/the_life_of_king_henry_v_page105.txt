@@ -17,14 +17,14 @@ FRENCH SOLDIER.
 _Petit monsieur, que dit-il?_
 
 BOY.
-_Encore qu’il est contre son jurement de pardonner aucun prisonnier;
+_Encore qu'il est contre son jurement de pardonner aucun prisonnier;
 néanmoins, pour les écus que vous lui avez promis, il est content à
 vous donner la liberté, le franchisement._
 
 FRENCH SOLDIER.
-_Sur mes genoux je vous donne mille remerciements; et je m’estime
-heureux que je suis tombé entre les mains d’un chevalier, je pense, le
-plus brave, vaillant, et très distingué seigneur d’Angleterre._
+_Sur mes genoux je vous donne mille remerciements; et je m'estime
+heureux que je suis tombé entre les mains d'un chevalier, je pense, le
+plus brave, vaillant, et très distingué seigneur d'Angleterre._
 
 PISTOL.
 Expound unto me, boy.

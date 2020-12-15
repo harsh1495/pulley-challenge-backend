@@ -4,7 +4,7 @@ sirrah, make haste:  Percy is already in the field.
 [Exit.]
 
 FALSTAFF.
-What, is the King encamp’d?
+What, is the King encamp'd?
 
 WESTMORELAND.
 He is, Sir John:  I fear we shall stay too long.
@@ -23,7 +23,7 @@ SCENE III. The Rebel Camp near Shrewsbury.
 [Enter Hotspur, Worcester, Douglas, and Vernon.]
 
 HOTSPUR.
-We’ll fight with him to-night.
+We'll fight with him to-night.
 
 WORCESTER.
 It may not be.

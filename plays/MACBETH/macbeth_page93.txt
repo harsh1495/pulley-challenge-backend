@@ -14,11 +14,11 @@ Beware the Thane of Fife.—Dismiss me.—Enough.
  [_Descends._]
 
 MACBETH.
-Whate’er thou art, for thy good caution, thanks;
-Thou hast harp’d my fear aright.—But one word more.
+Whate'er thou art, for thy good caution, thanks;
+Thou hast harp'd my fear aright.—But one word more.
 
 FIRST WITCH.
-He will not be commanded. Here’s another,
+He will not be commanded. Here's another,
 More potent than the first.
 
  [_Thunder. An Apparition of a bloody Child rises._]
@@ -27,7 +27,7 @@ APPARITION.
 Macbeth! Macbeth! Macbeth!
 
 MACBETH.
-Had I three ears, I’d hear thee.
+Had I three ears, I'd hear thee.
 
 APPARITION.
 Be bloody, bold, and resolute. Laugh to scorn

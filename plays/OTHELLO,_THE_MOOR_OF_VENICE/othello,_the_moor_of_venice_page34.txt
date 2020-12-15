@@ -11,7 +11,7 @@ Our friends at least.
 
 CASSIO.
 I pray you, sir, go forth,
-And give us truth who ’tis that is arriv’d.
+And give us truth who 'tis that is arriv'd.
 
 SECOND GENTLEMAN.
 I shall.
@@ -19,10 +19,10 @@ I shall.
  [_Exit._]
 
 MONTANO.
-But, good lieutenant, is your general wiv’d?
+But, good lieutenant, is your general wiv'd?
 
 CASSIO.
-Most fortunately: he hath achiev’d a maid
+Most fortunately: he hath achiev'd a maid
 That paragons description and wild fame,
 One that excels the quirks of blazoning pens,
 And in the essential vesture of creation
@@ -33,13 +33,13 @@ Does tire the ingener.
 How now? Who has put in?
 
 SECOND GENTLEMAN.
-’Tis one Iago, ancient to the general.
+'Tis one Iago, ancient to the general.
 
 CASSIO.
 He has had most favourable and happy speed:
 Tempests themselves, high seas, and howling winds,
-The gutter’d rocks, and congregated sands,
-Traitors ensteep’d to clog the guiltless keel,
+The gutter'd rocks, and congregated sands,
+Traitors ensteep'd to clog the guiltless keel,
 As having sense of beauty, do omit
 Their mortal natures, letting go safely by
 The divine Desdemona.
@@ -48,5 +48,5 @@ MONTANO.
 What is she?
 
 CASSIO.
-She that I spake of, our great captain’s captain,
+She that I spake of, our great captain's captain,
 Left in the conduct of the bold Iago;

@@ -3,10 +3,10 @@
 MACBETH.
 Give me your favour. My dull brain was wrought
 With things forgotten. Kind gentlemen, your pains
-Are register’d where every day I turn
+Are register'd where every day I turn
 The leaf to read them.—Let us toward the King.—
-Think upon what hath chanc’d; and at more time,
-The interim having weigh’d it, let us speak
+Think upon what hath chanc'd; and at more time,
+The interim having weigh'd it, let us speak
 Our free hearts each to other.
 
 BANQUO.
@@ -23,7 +23,7 @@ SCENE IV. Forres. A Room in the Palace.
 
 DUNCAN.
 Is execution done on Cawdor? Are not
-Those in commission yet return’d?
+Those in commission yet return'd?
 
 MALCOLM.
 My liege,

@@ -10,7 +10,7 @@ ROSENCRANTZ.
 My lord, there was no such stuff in my thoughts.
 
 HAMLET.
-Why did you laugh then, when I said ‘Man delights not me’?
+Why did you laugh then, when I said 'Man delights not me'?
 
 ROSENCRANTZ.
 To think, my lord, if you delight not in man, what Lenten entertainment
@@ -21,9 +21,9 @@ HAMLET.
 He that plays the king shall be welcome,—his Majesty shall have tribute
 of me; the adventurous knight shall use his foil and target; the lover
 shall not sigh gratis, the humorous man shall end his part in peace;
-the clown shall make those laugh whose lungs are tickle a’ th’ sere;
+the clown shall make those laugh whose lungs are tickle a' th' sere;
 and the lady shall say her mind freely, or the blank verse shall halt
-for’t. What players are they?
+for't. What players are they?
 
 ROSENCRANTZ.
 Even those you were wont to take such delight in—the tragedians of the

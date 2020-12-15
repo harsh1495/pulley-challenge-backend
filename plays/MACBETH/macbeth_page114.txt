@@ -1,5 +1,5 @@
 
-’Tis hard to reconcile.
+'Tis hard to reconcile.
 
  Enter a Doctor.
 
@@ -19,10 +19,10 @@ I thank you, doctor.
  [_Exit Doctor._]
 
 MACDUFF.
-What’s the disease he means?
+What's the disease he means?
 
 MALCOLM.
-’Tis call’d the evil:
+'Tis call'd the evil:
 A most miraculous work in this good king;
 Which often, since my here-remain in England,
 I have seen him do. How he solicits heaven,

@@ -4,13 +4,13 @@ IAGO.
 Did not you hear a cry?
 
 CASSIO.
-Here, here! for heaven’s sake, help me!
+Here, here! for heaven's sake, help me!
 
 IAGO.
-What’s the matter?
+What's the matter?
 
 GRATIANO.
-This is Othello’s ancient, as I take it.
+This is Othello's ancient, as I take it.
 
 LODOVICO.
 The same indeed, a very valiant fellow.
@@ -19,7 +19,7 @@ IAGO.
 What are you here that cry so grievously?
 
 CASSIO.
-Iago? O, I am spoil’d, undone by villains!
+Iago? O, I am spoil'd, undone by villains!
 Give me some help.
 
 IAGO.
@@ -38,7 +38,7 @@ RODERIGO.
 O, help me here!
 
 CASSIO.
-That’s one of them.
+That's one of them.
 
 IAGO.
 O murderous slave! O villain!
@@ -46,10 +46,10 @@ O murderous slave! O villain!
  [_Stabs Roderigo._]
 
 RODERIGO.
-O damn’d Iago! O inhuman dog!
+O damn'd Iago! O inhuman dog!
 
 IAGO.
-Kill men i’ the dark! Where be these bloody thieves?
+Kill men i' the dark! Where be these bloody thieves?
 How silent is this town! Ho! murder! murder!
 What may you be? Are you of good or evil?
 
@@ -63,6 +63,6 @@ LODOVICO.
 He, sir.
 
 IAGO.
-I cry you mercy. Here’s Cassio hurt by villains.
+I cry you mercy. Here's Cassio hurt by villains.
 
 GRATIANO.

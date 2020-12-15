@@ -18,7 +18,7 @@ Trojan! now the sleeve, now the sleeve!
  Enter Hector.
 
 HECTOR.
-What art thou, Greek? Art thou for Hector’s match?
+What art thou, Greek? Art thou for Hector's match?
 Art thou of blood and honour?
 
 THERSITES.
@@ -31,9 +31,9 @@ I do believe thee. Live.
 
 THERSITES.
 God-a-mercy, that thou wilt believe me; but a plague break thy neck for
-frighting me! What’s become of the wenching rogues? I think they have
+frighting me! What's become of the wenching rogues? I think they have
 swallowed one another. I would laugh at that miracle. Yet, in a sort,
-lechery eats itself. I’ll seek them.
+lechery eats itself. I'll seek them.
 
  [_Exit_.]
 
@@ -42,6 +42,6 @@ SCENE V. Another part of the plain.
  Enter Diomedes and a Servant.
 
 DIOMEDES.
-Go, go, my servant, take thou Troilus’ horse;
+Go, go, my servant, take thou Troilus' horse;
 Present the fair steed to my lady Cressid.
 Fellow, commend my service to her beauty;

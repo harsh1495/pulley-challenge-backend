@@ -13,7 +13,7 @@ SCENE I. Elsinore. A platform before the Castle.
  Enter Francisco and Barnardo, two sentinels.
 
 BARNARDO.
-Who’s there?
+Who's there?
 
 FRANCISCO.
 Nay, answer me. Stand and unfold yourself.
@@ -31,10 +31,10 @@ FRANCISCO.
 You come most carefully upon your hour.
 
 BARNARDO.
-’Tis now struck twelve. Get thee to bed, Francisco.
+'Tis now struck twelve. Get thee to bed, Francisco.
 
 FRANCISCO.
-For this relief much thanks. ’Tis bitter cold,
+For this relief much thanks. 'Tis bitter cold,
 And I am sick at heart.
 
 BARNARDO.
@@ -63,7 +63,7 @@ FRANCISCO.
 Give you good night.
 
 MARCELLUS.
-O, farewell, honest soldier, who hath reliev’d you?
+O, farewell, honest soldier, who hath reliev'd you?
 
 FRANCISCO.
 Barnardo has my place. Give you good-night.

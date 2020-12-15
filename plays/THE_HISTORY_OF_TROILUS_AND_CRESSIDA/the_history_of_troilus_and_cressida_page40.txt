@@ -11,19 +11,19 @@ AJAX.
 I shall cut out your tongue.
 
 THERSITES.
-’Tis no matter; I shall speak as much as thou afterwards.
+'Tis no matter; I shall speak as much as thou afterwards.
 
 PATROCLUS.
 No more words, Thersites; peace!
 
 THERSITES.
-I will hold my peace when Achilles’ brach bids me, shall I?
+I will hold my peace when Achilles' brach bids me, shall I?
 
 ACHILLES.
-There’s for you, Patroclus.
+There's for you, Patroclus.
 
 THERSITES.
-I will see you hang’d like clotpoles ere I come any more to your tents.
+I will see you hang'd like clotpoles ere I come any more to your tents.
 I will keep where there is wit stirring, and leave the faction of
 fools.
 
@@ -33,18 +33,18 @@ PATROCLUS.
 A good riddance.
 
 ACHILLES.
-Marry, this, sir, is proclaim’d through all our host,
+Marry, this, sir, is proclaim'd through all our host,
 That Hector, by the fifth hour of the sun,
-Will with a trumpet ’twixt our tents and Troy,
+Will with a trumpet 'twixt our tents and Troy,
 Tomorrow morning, call some knight to arms
 That hath a stomach; and such a one that dare
-Maintain I know not what; ’tis trash. Farewell.
+Maintain I know not what; 'tis trash. Farewell.
 
 AJAX.
 Farewell. Who shall answer him?
 
 ACHILLES.
-I know not; ’tis put to lott’ry, otherwise,
+I know not; 'tis put to lott'ry, otherwise,
 He knew his man.
 
 AJAX.
@@ -52,4 +52,4 @@ O, meaning you? I will go learn more of it.
 
  [_Exeunt_.]
 
-SCENE II. Troy. PRIAM’S palace.
+SCENE II. Troy. PRIAM'S palace.

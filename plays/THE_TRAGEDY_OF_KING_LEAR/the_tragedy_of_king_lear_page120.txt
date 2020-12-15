@@ -1,7 +1,7 @@
 
 
 GENTLEMAN.
-Sir, speed you. What’s your will?
+Sir, speed you. What's your will?
 
 EDGAR.
 Do you hear aught, sir, of a battle toward?
@@ -12,18 +12,18 @@ Everyone hears that, which can distinguish sound.
 
 EDGAR.
 But, by your favour,
-How near’s the other army?
+How near's the other army?
 
 GENTLEMAN.
 Near and on speedy foot; the main descry
 Stands on the hourly thought.
 
 EDGAR.
-I thank you sir, that’s all.
+I thank you sir, that's all.
 
 GENTLEMAN.
 Though that the queen on special cause is here,
-Her army is mov’d on.
+Her army is mov'd on.
 
 EDGAR.
 I thank you, sir.
@@ -42,10 +42,10 @@ GLOUCESTER.
 Now, good sir, what are you?
 
 EDGAR.
-A most poor man, made tame to fortune’s blows;
+A most poor man, made tame to fortune's blows;
 Who, by the art of known and feeling sorrows,
 Am pregnant to good pity. Give me your hand,
-I’ll lead you to some biding.
+I'll lead you to some biding.
 
 GLOUCESTER.
 Hearty thanks:
@@ -55,5 +55,5 @@ To boot, and boot.
  Enter Oswald.
 
 OSWALD.
-A proclaim’d prize! Most happy!
-That eyeless head of thine was first fram’d flesh
+A proclaim'd prize! Most happy!
+That eyeless head of thine was first fram'd flesh

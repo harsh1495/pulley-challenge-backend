@@ -23,13 +23,13 @@ O Antony! O Antony!
  [_Dies._]
 
 FIRST WATCH.
-Let’s speak to him.
+Let's speak to him.
 
 SENTRY.
-Let’s hear him, for the things he speaks may concern Caesar.
+Let's hear him, for the things he speaks may concern Caesar.
 
 SECOND WATCH.
-Let’s do so. But he sleeps.
+Let's do so. But he sleeps.
 
 SENTRY.
 Swoons rather, for so bad a prayer as his
@@ -51,4 +51,4 @@ The hand of death hath raught him.
 
 Hark! The drums
 Demurely wake the sleepers. Let us bear him
-To th’ court of guard; he is of note. Our hour
+To th' court of guard; he is of note. Our hour

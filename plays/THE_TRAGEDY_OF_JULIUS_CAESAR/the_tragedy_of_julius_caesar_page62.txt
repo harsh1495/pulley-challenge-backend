@@ -5,7 +5,7 @@ LUCIUS.
 I hear none, madam.
 
 PORTIA.
-Pr’ythee, listen well.
+Pr'ythee, listen well.
 I heard a bustling rumour, like a fray,
 And the wind brings it from the Capitol.
 
@@ -22,7 +22,7 @@ SOOTHSAYER.
 At mine own house, good lady.
 
 PORTIA.
-What is’t o’clock?
+What is't o'clock?
 
 SOOTHSAYER.
 About the ninth hour, lady.
@@ -43,4 +43,4 @@ To be so good to Caesar as to hear me,
 I shall beseech him to befriend himself.
 
 PORTIA.
-Why, know’st thou any harm’s intended towards him?
+Why, know'st thou any harm's intended towards him?

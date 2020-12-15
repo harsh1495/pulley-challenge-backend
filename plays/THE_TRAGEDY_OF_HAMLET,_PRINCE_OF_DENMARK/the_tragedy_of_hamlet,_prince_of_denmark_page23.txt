@@ -34,15 +34,15 @@ HORATIO.
 Is it a custom?
 
 HAMLET.
-Ay marry is’t;
+Ay marry is't;
 And to my mind, though I am native here,
 And to the manner born, it is a custom
-More honour’d in the breach than the observance.
+More honour'd in the breach than the observance.
 This heavy-headed revel east and west
-Makes us traduc’d and tax’d of other nations:
+Makes us traduc'd and tax'd of other nations:
 They clepe us drunkards, and with swinish phrase
 Soil our addition; and indeed it takes
-From our achievements, though perform’d at height,
+From our achievements, though perform'd at height,
 The pith and marrow of our attribute.
 So oft it chances in particular men
 That for some vicious mole of nature in them,

@@ -3,7 +3,7 @@
  Enter Lodovico, Desdemona and Attendant.
 
 IAGO.
-Something from Venice, sure. ’Tis Lodovico
+Something from Venice, sure. 'Tis Lodovico
 Come from the duke. See, your wife is with him.
 
 LODOVICO.
@@ -23,7 +23,7 @@ I kiss the instrument of their pleasures.
  [_Opens the packet and reads._]
 
 DESDEMONA.
-And what’s the news, good cousin Lodovico?
+And what's the news, good cousin Lodovico?
 
 IAGO.
 I am very glad to see you, signior.
@@ -36,7 +36,7 @@ IAGO.
 Lives, sir.
 
 DESDEMONA.
-Cousin, there’s fall’n between him and my lord
+Cousin, there's fall'n between him and my lord
 An unkind breach, but you shall make all well.
 
 OTHELLO.
@@ -49,8 +49,8 @@ OTHELLO.
 [_Reads._] “This fail you not to do, as you will—”
 
 LODOVICO.
-He did not call; he’s busy in the paper.
-Is there division ’twixt my lord and Cassio?
+He did not call; he's busy in the paper.
+Is there division 'twixt my lord and Cassio?
 
 DESDEMONA.
 A most unhappy one. I would do much

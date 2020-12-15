@@ -3,12 +3,12 @@
  [_Goes to his stand._]
 
 IAGO.
-I have rubb’d this young quat almost to the sense,
+I have rubb'd this young quat almost to the sense,
 And he grows angry. Now, whether he kill Cassio,
 Or Cassio him, or each do kill the other,
 Every way makes my gain. Live Roderigo,
 He calls me to a restitution large
-Of gold and jewels that I bobb’d from him,
+Of gold and jewels that I bobb'd from him,
 As gifts to Desdemona.
 It must not be. If Cassio do remain,
 He hath a daily beauty in his life
@@ -19,13 +19,13 @@ No, he must die. But so, I hear him coming.
  Enter Cassio.
 
 RODERIGO.
-I know his gait; ’tis he. Villain, thou diest!
+I know his gait; 'tis he. Villain, thou diest!
 
  [_Rushes out, and makes a pass at Cassio._]
 
 CASSIO.
 That thrust had been mine enemy indeed,
-But that my coat is better than thou know’st.
+But that my coat is better than thou know'st.
 I will make proof of thine.
 
  [_Draws, and wounds Roderigo._]
@@ -37,7 +37,7 @@ O, I am slain!
  exit._]
 
 CASSIO.
-I am maim’d forever. Help, ho! murder, murder!
+I am maim'd forever. Help, ho! murder, murder!
 
  [_Falls._]
 

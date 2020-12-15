@@ -3,7 +3,7 @@ MACBETH
 
 
 SCENE: In the end of the Fourth Act, in England; through the rest of
-the Play, in Scotland; and chiefly at Macbeth’s Castle.
+the Play, in Scotland; and chiefly at Macbeth's Castle.
 
 
 ACT I
@@ -17,8 +17,8 @@ When shall we three meet again?
 In thunder, lightning, or in rain?
 
 SECOND WITCH.
-When the hurlyburly’s done,
-When the battle’s lost and won.
+When the hurlyburly's done,
+When the battle's lost and won.
 
 THIRD WITCH.
 That will be ere the set of sun.

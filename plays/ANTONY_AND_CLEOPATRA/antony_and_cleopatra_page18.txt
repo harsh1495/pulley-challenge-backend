@@ -10,13 +10,13 @@ Away!
 
  [_Exeunt._]
 
-SCENE IV. Rome. An Apartment in Caesar’s House.
+SCENE IV. Rome. An Apartment in Caesar's House.
 
  Enter Octavius [Caesar], Lepidus and their train.
 
 CAESAR.
 You may see, Lepidus, and henceforth know,
-It is not Caesar’s natural vice to hate
+It is not Caesar's natural vice to hate
 Our great competitor. From Alexandria
 This is the news: he fishes, drinks, and wastes
 The lamps of night in revel: is not more manlike
@@ -30,9 +30,9 @@ LEPIDUS.
 I must not think there are
 Evils enough to darken all his goodness.
 His faults in him seem as the spots of heaven,
-More fiery by night’s blackness; hereditary
+More fiery by night's blackness; hereditary
 Rather than purchased; what he cannot change
 Than what he chooses.
 
 CAESAR.
-You are too indulgent. Let’s grant it is not
+You are too indulgent. Let's grant it is not

@@ -23,7 +23,7 @@ LODOVICO.
 I do beseech you, sir, trouble yourself no further.
 
 OTHELLO.
-O, pardon me; ’twill do me good to walk.
+O, pardon me; 'twill do me good to walk.
 
 LODOVICO.
 Madam, good night. I humbly thank your ladyship.
@@ -39,5 +39,5 @@ DESDEMONA.
 My lord?
 
 OTHELLO.
-Get you to bed on th’ instant, I will be return’d forthwith. Dismiss
-your attendant there. Look ’t be done.
+Get you to bed on th' instant, I will be return'd forthwith. Dismiss
+your attendant there. Look 't be done.

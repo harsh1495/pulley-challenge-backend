@@ -14,13 +14,13 @@ OTHELLO.
 Not now, sweet Desdemon, some other time.
 
 DESDEMONA.
-But shall’t be shortly?
+But shall't be shortly?
 
 OTHELLO.
 The sooner, sweet, for you.
 
 DESDEMONA.
-Shall’t be tonight at supper?
+Shall't be tonight at supper?
 
 OTHELLO.
 No, not tonight.
@@ -36,7 +36,7 @@ DESDEMONA.
 Why then tomorrow night, or Tuesday morn,
 On Tuesday noon, or night; on Wednesday morn.
 I prithee name the time, but let it not
-Exceed three days. In faith, he’s penitent;
+Exceed three days. In faith, he's penitent;
 And yet his trespass, in our common reason,
 (Save that, they say, the wars must make examples
 Out of their best) is not almost a fault

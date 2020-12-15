@@ -15,7 +15,7 @@ OSRIC.
 Sir?
 
 HORATIO.
-Is’t not possible to understand in another tongue? You will do’t, sir,
+Is't not possible to understand in another tongue? You will do't, sir,
 really.
 
 HAMLET.
@@ -25,7 +25,7 @@ OSRIC.
 Of Laertes?
 
 HORATIO.
-His purse is empty already, all’s golden words are spent.
+His purse is empty already, all's golden words are spent.
 
 HAMLET.
 Of him, sir.
@@ -46,10 +46,10 @@ but to know a man well were to know himself.
 
 OSRIC.
 I mean, sir, for his weapon; but in the imputation laid on him, by them
-in his meed he’s unfellowed.
+in his meed he's unfellowed.
 
 HAMLET.
-What’s his weapon?
+What's his weapon?
 
 OSRIC.
 Rapier and dagger.

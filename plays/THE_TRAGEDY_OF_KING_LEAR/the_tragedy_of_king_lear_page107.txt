@@ -8,13 +8,13 @@ GENTLEMAN.
 Alack, poor gentleman!
 
 KENT.
-Of Albany’s and Cornwall’s powers you heard not?
+Of Albany's and Cornwall's powers you heard not?
 
 GENTLEMAN.
-’Tis so; they are afoot.
+'Tis so; they are afoot.
 
 KENT.
-Well, sir, I’ll bring you to our master Lear
+Well, sir, I'll bring you to our master Lear
 And leave you to attend him. Some dear cause
 Will in concealment wrap me up awhile;
 When I am known aright, you shall not grieve
@@ -28,9 +28,9 @@ SCENE IV. The French camp. A Tent.
  Enter with drum and colours, Cordelia, Physician and Soldiers.
 
 CORDELIA.
-Alack, ’tis he: why, he was met even now
-As mad as the vex’d sea; singing aloud;
-Crown’d with rank fumiter and furrow weeds,
+Alack, 'tis he: why, he was met even now
+As mad as the vex'd sea; singing aloud;
+Crown'd with rank fumiter and furrow weeds,
 With harlocks, hemlock, nettles, cuckoo-flowers,
 Darnel, and all the idle weeds that grow
 In our sustaining corn. A century send forth;
@@ -39,4 +39,4 @@ And bring him to our eye.
 
  [_Exit an Officer._]
 
-What can man’s wisdom
+What can man's wisdom

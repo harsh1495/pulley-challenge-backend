@@ -8,7 +8,7 @@ SCENE: Britain.
 
 ACT I
 
-SCENE I. A Room of State in King Lear’s Palace.
+SCENE I. A Room of State in King Lear's Palace.
 
  Enter Kent, Gloucester and Edmund.
 
@@ -18,20 +18,20 @@ I thought the King had more affected the Duke of Albany than Cornwall.
 GLOUCESTER.
 It did always seem so to us; but now, in the division of the kingdom,
 it appears not which of the Dukes he values most, for qualities are so
-weighed that curiosity in neither can make choice of either’s moiety.
+weighed that curiosity in neither can make choice of either's moiety.
 
 KENT.
 Is not this your son, my lord?
 
 GLOUCESTER.
-His breeding, sir, hath been at my charge: I have so often blush’d to
-acknowledge him that now I am braz’d to’t.
+His breeding, sir, hath been at my charge: I have so often blush'd to
+acknowledge him that now I am braz'd to't.
 
 KENT.
 I cannot conceive you.
 
 GLOUCESTER.
-Sir, this young fellow’s mother could; whereupon she grew round-wombed,
+Sir, this young fellow's mother could; whereupon she grew round-wombed,
 and had indeed, sir, a son for her cradle ere she had a husband for her
 bed. Do you smell a fault?
 

@@ -6,7 +6,7 @@ Troilus, thou coward Troilus, show thy head.
  Enter Diomedes.
 
 DIOMEDES.
-Troilus, I say! Where’s Troilus?
+Troilus, I say! Where's Troilus?
 
 AJAX.
 What wouldst thou?
@@ -28,7 +28,7 @@ DIOMEDES.
 Ha! art thou there?
 
 AJAX.
-I’ll fight with him alone. Stand, Diomed.
+I'll fight with him alone. Stand, Diomed.
 
 DIOMEDES.
 He is my prize. I will not look upon.

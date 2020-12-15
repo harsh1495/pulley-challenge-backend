@@ -8,11 +8,11 @@ GONERIL.
  As they are going out, enter Edgar disguised.
 
 EDGAR.
-If e’er your grace had speech with man so poor,
+If e'er your grace had speech with man so poor,
 Hear me one word.
 
 ALBANY.
-I’ll overtake you. Speak.
+I'll overtake you. Speak.
 
 EDGAR.
 Before you fight the battle, ope this letter.
@@ -29,20 +29,20 @@ Stay till I have read the letter.
 EDGAR.
 I was forbid it.
 When time shall serve, let but the herald cry,
-And I’ll appear again.
+And I'll appear again.
 
 ALBANY.
-Why, fare thee well. I will o’erlook thy paper.
+Why, fare thee well. I will o'erlook thy paper.
 
  [_Exit Edgar._]
 
  Enter Edmund.
 
 EDMUND.
-The enemy’s in view; draw up your powers.
+The enemy's in view; draw up your powers.
 Here is the guess of their true strength and forces
 By diligent discovery; but your haste
-Is now urg’d on you.
+Is now urg'd on you.
 
 ALBANY.
 We will greet the time.

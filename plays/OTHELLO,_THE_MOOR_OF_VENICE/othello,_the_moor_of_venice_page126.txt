@@ -10,12 +10,12 @@ CASSIO.
 O, help, ho! light! a surgeon!
 
 OTHELLO.
-’Tis he. O brave Iago, honest and just,
-That hast such noble sense of thy friend’s wrong!
+'Tis he. O brave Iago, honest and just,
+That hast such noble sense of thy friend's wrong!
 Thou teachest me,—minion, your dear lies dead,
-And your unbless’d fate hies. Strumpet, I come!
+And your unbless'd fate hies. Strumpet, I come!
 Forth of my heart those charms, thine eyes, are blotted;
-Thy bed, lust-stain’d, shall with lust’s blood be spotted.
+Thy bed, lust-stain'd, shall with lust's blood be spotted.
 
  [_Exit._]
 
@@ -25,7 +25,7 @@ CASSIO.
 What, ho! No watch? No passage? murder, murder!
 
 GRATIANO.
-’Tis some mischance; the cry is very direful.
+'Tis some mischance; the cry is very direful.
 
 CASSIO.
 O, help!
@@ -38,7 +38,7 @@ O wretched villain!
 
 LODOVICO.
 Two or three groan. It is a heavy night.
-These may be counterfeits. Let’s think’t unsafe
+These may be counterfeits. Let's think't unsafe
 To come in to the cry without more help.
 
 RODERIGO.
@@ -50,10 +50,10 @@ LODOVICO.
 Hark!
 
 GRATIANO.
-Here’s one comes in his shirt, with light and weapons.
+Here's one comes in his shirt, with light and weapons.
 
 IAGO.
-Who’s there? Whose noise is this that cries on murder?
+Who's there? Whose noise is this that cries on murder?
 
 LODOVICO.
 We do not know.

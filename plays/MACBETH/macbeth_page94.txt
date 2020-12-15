@@ -4,7 +4,7 @@
 
 MACBETH.
 Then live, Macduff: what need I fear of thee?
-But yet I’ll make assurance double sure,
+But yet I'll make assurance double sure,
 And take a bond of fate. Thou shalt not live;
 That I may tell pale-hearted fear it lies,
 And sleep in spite of thunder.
@@ -18,12 +18,12 @@ And wears upon his baby brow the round
 And top of sovereignty?
 
 ALL.
-Listen, but speak not to’t.
+Listen, but speak not to't.
 
 APPARITION.
 Be lion-mettled, proud, and take no care
 Who chafes, who frets, or where conspirers are:
-Macbeth shall never vanquish’d be, until
+Macbeth shall never vanquish'd be, until
 Great Birnam wood to high Dunsinane hill
 Shall come against him.
 

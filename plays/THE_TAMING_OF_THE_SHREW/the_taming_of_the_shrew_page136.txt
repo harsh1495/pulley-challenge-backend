@@ -12,7 +12,7 @@ Better once than never, for never too late.
 
 
 
-SCENE II. A room in LUCENTIO’S house.
+SCENE II. A room in LUCENTIO'S house.
 
 Enter Baptista, Vincentio, Gremio, the Pedant, Lucentio, Bianca,
 Petruchio, Katherina, Hortensio and Widow. Tranio, Biondello and Grumio
@@ -21,7 +21,7 @@ and Others, attending.
 LUCENTIO.
 At last, though long, our jarring notes agree:
 And time it is when raging war is done,
-To smile at ’scapes and perils overblown.
+To smile at 'scapes and perils overblown.
 My fair Bianca, bid my father welcome,
 While I with self-same kindness welcome thine.
 Brother Petruchio, sister Katherina,

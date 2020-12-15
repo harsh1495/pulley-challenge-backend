@@ -7,7 +7,7 @@ SCENE: Ephesus
 
 ACT I
 
-SCENE I. A hall in the Duke’s palace.
+SCENE I. A hall in the Duke's palace.
 
  Enter Duke, Egeon, Jailer, Officers and other Attendants.
 
@@ -22,5 +22,5 @@ The enmity and discord which of late
 Sprung from the rancorous outrage of your Duke
 To merchants, our well-dealing countrymen,
 Who, wanting guilders to redeem their lives,
-Have seal’d his rigorous statutes with their bloods,
-Excludes all pity from our threat’ning looks.
+Have seal'd his rigorous statutes with their bloods,
+Excludes all pity from our threat'ning looks.

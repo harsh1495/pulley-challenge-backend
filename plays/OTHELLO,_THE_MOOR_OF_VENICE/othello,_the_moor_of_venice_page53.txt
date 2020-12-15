@@ -1,5 +1,5 @@
 
-You will be sham’d forever.
+You will be sham'd forever.
 
  Enter Othello and Attendants.
 
@@ -19,7 +19,7 @@ Hold! The general speaks to you; hold, hold, for shame!
 
 OTHELLO.
 Why, how now, ho! From whence ariseth this?
-Are we turn’d Turks, and to ourselves do that
+Are we turn'd Turks, and to ourselves do that
 Which heaven hath forbid the Ottomites?
 For Christian shame, put by this barbarous brawl:
 He that stirs next to carve for his own rage
@@ -34,4 +34,4 @@ I do not know. Friends all but now, even now,
 In quarter, and in terms like bride and groom
 Devesting them for bed; and then, but now,
 As if some planet had unwitted men,
-Swords out, and tilting one at other’s breast,
+Swords out, and tilting one at other's breast,

@@ -7,7 +7,7 @@ If all else fail, myself have power to die.
 
 ACT IV
 
-SCENE I. Friar Lawrence’s Cell.
+SCENE I. Friar Lawrence's Cell.
 
  Enter Friar Lawrence and Paris.
 
@@ -19,12 +19,12 @@ My father Capulet will have it so;
 And I am nothing slow to slack his haste.
 
 FRIAR LAWRENCE.
-You say you do not know the lady’s mind.
+You say you do not know the lady's mind.
 Uneven is the course; I like it not.
 
 PARIS.
-Immoderately she weeps for Tybalt’s death,
-And therefore have I little talk’d of love;
+Immoderately she weeps for Tybalt's death,
+And therefore have I little talk'd of love;
 For Venus smiles not in a house of tears.
 Now, sir, her father counts it dangerous
 That she do give her sorrow so much sway;
@@ -35,7 +35,7 @@ May be put from her by society.
 Now do you know the reason of this haste.
 
 FRIAR LAWRENCE.
-[_Aside._] I would I knew not why it should be slow’d.—
+[_Aside._] I would I knew not why it should be slow'd.—
 Look, sir, here comes the lady toward my cell.
 
  Enter Juliet.

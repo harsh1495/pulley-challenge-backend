@@ -9,10 +9,10 @@ POLONIUS.
 My lord, the Queen would speak with you, and presently.
 
 HAMLET.
-Do you see yonder cloud that’s almost in shape of a camel?
+Do you see yonder cloud that's almost in shape of a camel?
 
 POLONIUS.
-By the mass, and ’tis like a camel indeed.
+By the mass, and 'tis like a camel indeed.
 
 HAMLET.
 Methinks it is like a weasel.
@@ -40,7 +40,7 @@ By and by is easily said. Leave me, friends.
 
  [_Exeunt all but Hamlet._]
 
-’Tis now the very witching time of night,
+'Tis now the very witching time of night,
 When churchyards yawn, and hell itself breathes out
 Contagion to this world. Now could I drink hot blood,
 And do such bitter business as the day

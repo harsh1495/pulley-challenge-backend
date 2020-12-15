@@ -2,7 +2,7 @@
 
  [_Exit_.]
 
-SCENE II. The Grecian camp. Before CALCHAS’ tent.
+SCENE II. The Grecian camp. Before CALCHAS' tent.
 
  Enter Diomedes.
 
@@ -13,7 +13,7 @@ CALCHAS.
 [_Within_.] Who calls?
 
 DIOMEDES.
-Diomed. Calchas, I think. Where’s your daughter?
+Diomed. Calchas, I think. Where's your daughter?
 
 CALCHAS.
 [_Within_.] She comes to you.
@@ -43,7 +43,7 @@ ULYSSES.
 She will sing any man at first sight.
 
 THERSITES.
-And any man may sing her, if he can take her cliff; she’s noted.
+And any man may sing her, if he can take her cliff; she's noted.
 
 DIOMEDES.
 Will you remember?
@@ -71,7 +71,7 @@ DIOMEDES.
 Nay, then—
 
 CRESSIDA.
-I’ll tell you what—
+I'll tell you what—
 
 DIOMEDES.
 Fo, fo! come, tell a pin; you are a forsworn.

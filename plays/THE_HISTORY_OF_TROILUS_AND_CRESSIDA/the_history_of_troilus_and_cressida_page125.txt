@@ -44,7 +44,7 @@ DIOMEDES.
 Give me some token for the surety of it.
 
 CRESSIDA.
-I’ll fetch you one.
+I'll fetch you one.
 
  [_Exit_.]
 

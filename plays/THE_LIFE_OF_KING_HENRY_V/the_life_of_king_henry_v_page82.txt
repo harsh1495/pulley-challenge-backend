@@ -6,7 +6,7 @@ KING HENRY.
 I am a gentleman of a company.
 
 PISTOL.
-Trail’st thou the puissant pike?
+Trail'st thou the puissant pike?
 
 KING HENRY.
 Even so. What are you?
@@ -18,7 +18,7 @@ KING HENRY.
 Then you are a better than the King.
 
 PISTOL.
-The King’s a bawcock, and a heart of gold,
+The King's a bawcock, and a heart of gold,
 A lad of life, an imp of fame;
 Of parents good, of fist most valiant.
 I kiss his dirty shoe, and from heart-string
@@ -34,14 +34,14 @@ KING HENRY.
 No, I am a Welshman.
 
 PISTOL.
-Know’st thou Fluellen?
+Know'st thou Fluellen?
 
 KING HENRY.
 Yes.
 
 PISTOL.
-Tell him I’ll knock his leek about his pate
-Upon Saint Davy’s day.
+Tell him I'll knock his leek about his pate
+Upon Saint Davy's day.
 
 KING HENRY.
 Do not you wear your dagger in your cap that day, lest he knock that
@@ -60,4 +60,4 @@ KING HENRY.
 I thank you. God be with you!
 
 PISTOL.
-My name is Pistol call’d.
+My name is Pistol call'd.

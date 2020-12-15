@@ -20,7 +20,7 @@ longer.
  Enter Nurse and Peter.
 
 ROMEO.
-Here’s goodly gear!
+Here's goodly gear!
 A sail, a sail!
 
 MERCUTIO.
@@ -36,7 +36,7 @@ NURSE.
 My fan, Peter.
 
 MERCUTIO.
-Good Peter, to hide her face; for her fan’s the fairer face.
+Good Peter, to hide her face; for her fan's the fairer face.
 
 NURSE.
 God ye good morrow, gentlemen.
@@ -48,4 +48,4 @@ NURSE.
 Is it good-den?
 
 MERCUTIO.
-’Tis no less, I tell ye; for the bawdy hand of the dial is now upon the
+'Tis no less, I tell ye; for the bawdy hand of the dial is now upon the

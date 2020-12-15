@@ -4,7 +4,7 @@ ORLEANS.
 He needs not; it is no hidden virtue in him.
 
 CONSTABLE.
-By my faith, sir, but it is; never anybody saw it but his lackey. ’Tis
+By my faith, sir, but it is; never anybody saw it but his lackey. 'Tis
 a hooded valour; and when it appears, it will bate.
 
 ORLEANS.
@@ -17,18 +17,18 @@ ORLEANS.
 And I will take up that with “Give the devil his due.”
 
 CONSTABLE.
-Well plac’d. There stands your friend for the devil; have at the very
+Well plac'd. There stands your friend for the devil; have at the very
 eye of that proverb with “A pox of the devil.”
 
 ORLEANS.
-You are the better at proverbs, by how much “A fool’s bolt is soon
+You are the better at proverbs, by how much “A fool's bolt is soon
 shot.”
 
 CONSTABLE.
 You have shot over.
 
 ORLEANS.
-’Tis not the first time you were overshot.
+'Tis not the first time you were overshot.
 
  Enter a Messenger.
 
@@ -37,7 +37,7 @@ My Lord High Constable, the English lie within fifteen hundred paces of
 your tents.
 
 CONSTABLE.
-Who hath measur’d the ground?
+Who hath measur'd the ground?
 
 MESSENGER.
 The Lord Grandpré.

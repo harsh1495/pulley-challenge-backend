@@ -6,13 +6,13 @@ VIOLA.
 A little, by your favour.
 
 DUKE.
-What kind of woman is’t?
+What kind of woman is't?
 
 VIOLA.
 Of your complexion.
 
 DUKE.
-She is not worth thee, then. What years, i’ faith?
+She is not worth thee, then. What years, i' faith?
 
 VIOLA.
 About your years, my lord.
@@ -20,11 +20,11 @@ About your years, my lord.
 DUKE.
 Too old, by heaven! Let still the woman take
 An elder than herself; so wears she to him,
-So sways she level in her husband’s heart.
+So sways she level in her husband's heart.
 For, boy, however we do praise ourselves,
 Our fancies are more giddy and unfirm,
 More longing, wavering, sooner lost and worn,
-Than women’s are.
+Than women's are.
 
 VIOLA.
 I think it well, my lord.
@@ -33,7 +33,7 @@ DUKE.
 Then let thy love be younger than thyself,
 Or thy affection cannot hold the bent:
 For women are as roses, whose fair flower
-Being once display’d, doth fall that very hour.
+Being once display'd, doth fall that very hour.
 
 VIOLA.
 And so they are: alas, that they are so;

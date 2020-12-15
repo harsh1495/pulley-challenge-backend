@@ -1,7 +1,7 @@
 
 It is a damned ghost that we have seen;
 And my imaginations are as foul
-As Vulcan’s stithy. Give him heedful note;
+As Vulcan's stithy. Give him heedful note;
 For I mine eyes will rivet to his face;
 And after we will both our judgments join
 In censure of his seeming.
@@ -22,15 +22,15 @@ KING.
 How fares our cousin Hamlet?
 
 HAMLET.
-Excellent, i’ faith; of the chameleon’s dish: I eat the air,
+Excellent, i' faith; of the chameleon's dish: I eat the air,
 promise-crammed: you cannot feed capons so.
 
 KING.
 I have nothing with this answer, Hamlet; these words are not mine.
 
 HAMLET.
-No, nor mine now. [_To Polonius._] My lord, you play’d once i’
-th’university, you say?
+No, nor mine now. [_To Polonius._] My lord, you play'd once i'
+th'university, you say?
 
 POLONIUS.
 That did I, my lord, and was accounted a good actor.
@@ -39,7 +39,7 @@ HAMLET.
 What did you enact?
 
 POLONIUS.
-I did enact Julius Caesar. I was kill’d i’ th’ Capitol. Brutus killed
+I did enact Julius Caesar. I was kill'd i' th' Capitol. Brutus killed
 me.
 
 HAMLET.

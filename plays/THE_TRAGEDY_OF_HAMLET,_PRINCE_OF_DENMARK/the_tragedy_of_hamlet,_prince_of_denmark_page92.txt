@@ -13,7 +13,7 @@ HAMLET.
 How is it with you, lady?
 
 QUEEN.
-Alas, how is’t with you,
+Alas, how is't with you,
 That you do bend your eye on vacancy,
 And with the incorporal air do hold discourse?
 Forth at your eyes your spirits wildly peep,
@@ -25,7 +25,7 @@ Sprinkle cool patience. Whereon do you look?
 
 HAMLET.
 On him, on him! Look you how pale he glares,
-His form and cause conjoin’d, preaching to stones,
+His form and cause conjoin'd, preaching to stones,
 Would make them capable.—Do not look upon me,
 Lest with this piteous action you convert
 My stern effects. Then what I have to do
@@ -48,4 +48,4 @@ No, nothing but ourselves.
 
 HAMLET.
 Why, look you there! look how it steals away!
-My father, in his habit as he liv’d!
+My father, in his habit as he liv'd!

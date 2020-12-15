@@ -2,7 +2,7 @@
 
  Enter Antony.
 
-Brutus is ta’en, Brutus is ta’en, my lord.
+Brutus is ta'en, Brutus is ta'en, my lord.
 
 ANTONY.
 Where is he?
@@ -21,8 +21,8 @@ A prize no less in worth. Keep this man safe,
 Give him all kindness. I had rather have
 Such men my friends than enemies. Go on,
 And see whether Brutus be alive or dead;
-And bring us word unto Octavius’ tent
-How everything is chanc’d.
+And bring us word unto Octavius' tent
+How everything is chanc'd.
 
  [_Exeunt._]
 

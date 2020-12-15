@@ -15,7 +15,7 @@ HORTENSIO.
 But I have cause to pry into this pedant:
 Methinks he looks as though he were in love.
 Yet if thy thoughts, Bianca, be so humble
-To cast thy wand’ring eyes on every stale,
+To cast thy wand'ring eyes on every stale,
 Seize thee that list: if once I find thee ranging,
 Hortensio will be quit with thee by changing.
 
@@ -24,13 +24,13 @@ Hortensio will be quit with thee by changing.
 
 
 
-SCENE II. The same. Before BAPTISTA’S house.
+SCENE II. The same. Before BAPTISTA'S house.
 
 Enter Baptista, Gremio, Tranio, Katherina, Bianca, Lucentio and
 Attendants.
 
 BAPTISTA.  [_To Tranio_.]
-Signior Lucentio, this is the ’pointed day
+Signior Lucentio, this is the 'pointed day
 That Katherine and Petruchio should be married,
 And yet we hear not of our son-in-law.
 What will be said? What mockery will it be

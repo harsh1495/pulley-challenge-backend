@@ -34,8 +34,8 @@ def get_search_results():
     Fetch a list of pages that match closely with the search query
     '''
     query = request.args.get("q")
-    start = request.args.get("start", SEARCH_RESULTS_START_POSITION)
-    size = request.args.get("size", SEARCH_RESULTS_SIZE_PER_PAGE)
+    start = int(request.args.get("start", SEARCH_RESULTS_START_POSITION))
+    size = int(request.args.get("size", SEARCH_RESULTS_SIZE_PER_PAGE))
 
     if not query:
         data = res.get_error_response_no_results()
@@ -57,7 +57,6 @@ def get_search_results():
             return json.dumps(data), 200
 
         print(len(top_search_pages))
-
         data = res.format_results(top_search_pages, start, size)
         return json.dumps({"results": data, "total_count": len(top_search_pages), "current_count": len(data)}), 200
 

@@ -7,7 +7,7 @@ GOWER.
 What do you call him?
 
 FLUELLEN.
-He is call’d Anchient Pistol.
+He is call'd Anchient Pistol.
 
 GOWER.
 I know him not.
@@ -27,7 +27,7 @@ Ay, I praise God; and I have merited some love at his hands.
 PISTOL.
 Bardolph, a soldier, firm and sound of heart,
 And of buxom valour, hath by cruel fate
-And giddy Fortune’s furious fickle wheel,
+And giddy Fortune's furious fickle wheel,
 That goddess blind,
 That stands upon the rolling restless stone—
 

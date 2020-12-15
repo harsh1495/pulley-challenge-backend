@@ -10,7 +10,7 @@ LUCENTIO.
 And then?
 
 BIONDELLO.
-The old priest at Saint Luke’s church is at your command at all hours.
+The old priest at Saint Luke's church is at your command at all hours.
 
 LUCENTIO.
 And what of all this?
@@ -26,9 +26,9 @@ But bid Bianca farewell for ever and a day.
 [_Going._]
 
 LUCENTIO.
-Hear’st thou, Biondello?
+Hear'st thou, Biondello?
 
 BIONDELLO.
 I cannot tarry: I knew a wench married in an afternoon as she went to
 the garden for parsley to stuff a rabbit; and so may you, sir; and so
-adieu, sir. My master hath appointed me to go to Saint Luke’s to bid
+adieu, sir. My master hath appointed me to go to Saint Luke's to bid

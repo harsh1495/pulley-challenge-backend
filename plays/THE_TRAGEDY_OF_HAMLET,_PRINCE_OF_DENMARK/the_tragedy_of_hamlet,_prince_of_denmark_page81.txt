@@ -9,7 +9,7 @@ GUILDENSTERN.
 What, my lord?
 
 HAMLET.
-Make you a wholesome answer. My wit’s diseased. But, sir, such answer
+Make you a wholesome answer. My wit's diseased. But, sir, such answer
 as I can make, you shall command; or rather, as you say, my mother.
 Therefore no more, but to the matter. My mother, you say,—
 
@@ -19,7 +19,7 @@ admiration.
 
 HAMLET.
 O wonderful son, that can so stonish a mother! But is there no sequel
-at the heels of this mother’s admiration?
+at the heels of this mother's admiration?
 
 ROSENCRANTZ.
 She desires to speak with you in her closet ere you go to bed.

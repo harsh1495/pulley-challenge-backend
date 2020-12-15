@@ -32,7 +32,7 @@ CHARMIAN.
 You think of him too much.
 
 CLEOPATRA.
-O, ’tis treason!
+O, 'tis treason!
 
 CHARMIAN.
 Madam, I trust not so.
@@ -41,11 +41,11 @@ CLEOPATRA.
 Thou, eunuch Mardian!
 
 MARDIAN.
-What’s your highness’ pleasure?
+What's your highness' pleasure?
 
 CLEOPATRA.
 Not now to hear thee sing. I take no pleasure
-In aught an eunuch has. ’Tis well for thee
+In aught an eunuch has. 'Tis well for thee
 That, being unseminared, thy freer thoughts
 May not fly forth of Egypt. Hast thou affections?
 
@@ -63,4 +63,4 @@ What Venus did with Mars.
 
 CLEOPATRA.
 O, Charmian,
-Where think’st thou he is now? Stands he, or sits he?
+Where think'st thou he is now? Stands he, or sits he?
