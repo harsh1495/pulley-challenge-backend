@@ -4,8 +4,8 @@ from corpus import Corpus
 print("loading global variables...")
 
 # file names
-SHAKESPEARE_WORKS_FILE = "completeworks.txt"
-STOPWORDS_FILE = "stopwords.txt"
+SHAKESPEARE_WORKS_FILE = "data/completeworks.txt"
+STOPWORDS_FILE = "data/stopwords.txt"
 
 # folder names
 DOCUMENTS_DIRECTORY = os.path.join(os.getcwd(), "documents")

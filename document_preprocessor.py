@@ -1,5 +1,4 @@
 import re
-
 from global_variables import STOPWORDS_FILE
 
 
