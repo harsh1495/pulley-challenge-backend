@@ -48,7 +48,7 @@ class Response:
         for result in paginated_results:
             filepath = os.path.join(PLAYS_DIRECTORY, result[1], result[0])
             print(filepath)
-            with codecs.open(filepath, 'r', encoding='utf-8', errors='ignore') as file:
+            with open(filepath, 'r') as file:
                 content = file.read()
 
             data.append({
