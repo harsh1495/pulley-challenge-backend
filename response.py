@@ -46,7 +46,7 @@ class Response:
         paginated_results = Response.pagination(results, start, size)
         for result in paginated_results:
             filepath = os.path.join(PLAYS_DIRECTORY, result[1], result[0])
-            with open(filepath, 'r', encoding="latin-1") as file:
+            with open(filepath, 'r') as file:
                 content = file.read()
 
             data.append({

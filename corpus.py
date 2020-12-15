@@ -4,8 +4,6 @@ import nltk
 from nltk.tokenize import word_tokenize
 
 # globals
-PROCESSED_DOCUMENTS_DIRECTORY = os.path.join(
-    os.getcwd(), "processed_documents")
 SIMILARITY_INDEX_FOLDER = "index"
 
 
