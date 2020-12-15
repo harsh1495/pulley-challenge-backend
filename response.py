@@ -1,5 +1,4 @@
 import os
-import codecs
 from global_variables import PLAYS_DIRECTORY
 
 
@@ -47,8 +46,7 @@ class Response:
         paginated_results = Response.pagination(results, start, size)
         for result in paginated_results:
             filepath = os.path.join(PLAYS_DIRECTORY, result[1], result[0])
-            print(filepath)
-            with open(filepath, 'r') as file:
+            with open(filepath, 'r', encoding="latin-1") as file:
                 content = file.read()
 
             data.append({
