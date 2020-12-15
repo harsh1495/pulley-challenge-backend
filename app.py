@@ -41,29 +41,29 @@ def get_search_results():
         data = res.get_error_response_no_results()
         return json.dumps(data), 200
 
-    try:
-        query_processor_obj = DocumentPreprocessor(query)
-        processed_query = query_processor_obj.process_document_text()
+    # try:
+    query_processor_obj = DocumentPreprocessor(query)
+    processed_query = query_processor_obj.process_document_text()
 
-        if not processed_query:
-            data = res.get_error_response_no_results()
-            return json.dumps(data), 200
+    if not processed_query:
+        data = res.get_error_response_no_results()
+        return json.dumps(data), 200
 
-        doc_similarity_obj = DocumentSimilarity(processed_query)
-        top_search_pages = doc_similarity_obj.generate_search_results()
+    doc_similarity_obj = DocumentSimilarity(processed_query)
+    top_search_pages = doc_similarity_obj.generate_search_results()
 
-        if not top_search_pages:
-            data = res.get_error_response_no_results()
-            return json.dumps(data), 200
+    if not top_search_pages:
+        data = res.get_error_response_no_results()
+        return json.dumps(data), 200
 
-        print(len(top_search_pages))
+    print(len(top_search_pages))
 
-        data = res.format_results(top_search_pages, start, size)
-        return json.dumps({"results": data, "total_count": len(top_search_pages), "current_count": len(data)}), 200
+    data = res.format_results(top_search_pages, start, size)
+    return json.dumps({"results": data, "total_count": len(top_search_pages), "current_count": len(data)}), 200
 
-    except:
-        error = res.get_error_response("An error occurred")
-        return json.dumps(error), 500
+    # except:
+    #     error = res.get_error_response("An error occurred")
+    #     return json.dumps(error), 500
 
 # Error Handling
 
