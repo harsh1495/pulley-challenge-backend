@@ -66,11 +66,15 @@ def get_search_results():
 
 # Error Handling
 
+# 404 error
+
 
 @app.errorhandler(404)
 def not_found_404(error):
     error = res.get_error_response("Resource not found")
     return json.dumps(error), 404
+
+# 400 error
 
 
 @app.errorhandler(400)
