@@ -1,5 +1,6 @@
 import os
 import gensim
+import nltk
 from nltk.tokenize import word_tokenize
 
 # globals
@@ -9,27 +10,55 @@ SIMILARITY_INDEX_FOLDER = "index"
 
 
 class Corpus:
-    def __init__(self):
+    def __init__(self, PLAYS_DIRECTORY):
+        self.PLAYS_DIRECTORY = PLAYS_DIRECTORY
+        self.all_plays = []
         self.all_processed_docs = []
+        self.final_file_names = []
+
+    def load_all_plays(self):
+        for play in os.listdir(self.PLAYS_DIRECTORY):
+            self.all_plays.append(play)
 
     def load_document_corpus(self):
-        for filename in os.listdir(PROCESSED_DOCUMENTS_DIRECTORY):
-            if filename.endswith(".txt"):
-                filepath = os.path.join(
-                    PROCESSED_DOCUMENTS_DIRECTORY, filename)
-                with open(filepath, 'r', encoding="latin-1") as file:
-                    document_text = file.read()
+        self.load_all_plays()
+        for play in self.all_plays:
+            for filename in os.listdir(os.path.join(self.PLAYS_DIRECTORY, play, "processed_pages")):
+                # print(filename)
+                if filename.endswith(".txt"):
+                    self.final_file_names.append(filename)
+                    filepath = os.path.join(
+                        self.PLAYS_DIRECTORY, play, "processed_pages", filename)
+                    with open(filepath, 'r', encoding="latin-1") as file:
+                        page_text = file.read()
 
-                self.all_processed_docs.append(document_text)
+                    self.all_processed_docs.append(page_text)
 
-            else:
-                continue
+                else:
+                    continue
 
-        return self.all_processed_docs
+        return self.all_processed_docs, self.final_file_names
+
+    def generate_unigrams_bigrams(self, document_corpus):
+        gen_docs = []
+        for text in document_corpus:
+            gen_doc_play = []
+
+            # unigrams
+            tokens = word_tokenize(text)
+            gen_doc_play.extend(tokens)
+
+            # bigrams
+            bigrm = nltk.bigrams(tokens)
+            for bg in bigrm:
+                gen_doc_play.append(' '.join(bg))
+
+            gen_docs.append(gen_doc_play)
+
+        return gen_docs
 
     def generate_similarity_index(self, document_corpus):
-        gen_docs = [[w for w in word_tokenize(text)]
-                    for text in document_corpus]
+        gen_docs = self.generate_unigrams_bigrams(document_corpus)
         embeddings_dictionary = gensim.corpora.Dictionary(gen_docs)
         similarity_corpus = [embeddings_dictionary.doc2bow(
             gen_doc) for gen_doc in gen_docs]
