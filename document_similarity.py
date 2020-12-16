@@ -40,6 +40,12 @@ class DocumentSimilarity:
         Threshold logic - Should be greater than 10% of the highest score
         TODO: Strengthen threshold logic
         '''
+        if max_score <= 0.1:
+            if current_score >= 0.05:
+                return True
+            else:
+                return False
+
         if current_score > 0.1 * max_score:
             return True
         else:

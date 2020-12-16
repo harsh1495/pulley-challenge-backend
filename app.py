@@ -67,11 +67,10 @@ def get_search_results():
             return json.dumps(data), 200
 
         print(len(top_search_pages))
+        print(top_search_pages)
 
         # format the matching documents to send to the user
         data = res.format_results(top_search_pages, start, size)
-
-        print(data)
 
         return json.dumps({"results": data, "total_count": len(top_search_pages), "current_count": len(data)}), 200
 
