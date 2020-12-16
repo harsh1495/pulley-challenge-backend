@@ -16,6 +16,7 @@ SEARCH_RESULTS_START_POSITION = 0
 res = Response()
 
 # cross-origin resource sharing
+# TODO: only allow http://localhost:3000 and https://quiet-refuge-59908.herokuapp.com/
 cors = CORS(app, resources={r"/*": {"origins": "*"}})
 
 
@@ -33,6 +34,8 @@ def get_search_results():
     '''
     Fetch a list of pages that match closely with the search query
     '''
+
+    # parse query params
     query = request.args.get("q")
     start = int(request.args.get("start", SEARCH_RESULTS_START_POSITION))
     size = int(request.args.get("size", SEARCH_RESULTS_SIZE_PER_PAGE))
@@ -42,6 +45,7 @@ def get_search_results():
         return json.dumps(data), 200
 
     try:
+        # create an object for preprocessing the query
         query_processor_obj = DocumentPreprocessor(query)
         processed_query = query_processor_obj.process_document_text()
 
@@ -49,6 +53,7 @@ def get_search_results():
             data = res.get_error_response_no_results()
             return json.dumps(data), 200
 
+        # create an object for finding documents similar to the query
         doc_similarity_obj = DocumentSimilarity(processed_query)
         top_search_pages = doc_similarity_obj.generate_search_results()
 
@@ -57,7 +62,12 @@ def get_search_results():
             return json.dumps(data), 200
 
         print(len(top_search_pages))
+
+        # format the matching documents to send to the user
         data = res.format_results(top_search_pages, start, size)
+
+        print(data)
+
         return json.dumps({"results": data, "total_count": len(top_search_pages), "current_count": len(data)}), 200
 
     except:
@@ -66,15 +76,11 @@ def get_search_results():
 
 # Error Handling
 
-# 404 error
-
 
 @app.errorhandler(404)
 def not_found_404(error):
     error = res.get_error_response("Resource not found")
     return json.dumps(error), 404
-
-# 400 error
 
 
 @app.errorhandler(400)
