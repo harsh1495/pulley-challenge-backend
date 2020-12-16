@@ -7,7 +7,7 @@ The backend is deployed on Heroku: https://pulley-challenge-harsh.herokuapp.com
 ### GET ```"/search"```
 
 - Fetches a list of dictionary of all the search results (shows the first 10 search results by default)
-- Request query arguments: <q>, <start>, <size>
+- Request query arguments: q, start, size
 - Returns: A list of dictionaries of search results containing the name of the Shakespeare play and the raw content which matches the search query
 
 #### Sample Response
