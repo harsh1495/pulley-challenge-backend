@@ -29,6 +29,11 @@ def after_request(response):
     return response
 
 
+@app.route("/", methods=["GET"])
+def index():
+    return ("Welcome to Pulley's Shakesearch Challenge!")
+
+
 @app.route("/search", methods=["GET"])
 def get_search_results():
     '''

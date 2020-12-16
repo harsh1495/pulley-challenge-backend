@@ -1,5 +1,7 @@
 # Pulley Shakesearch Challenge
 
+The backend is deployed on Heroku: https://pulley-challenge-harsh.herokuapp.com
+
 ## API Endpoints
 
 ### GET ```"/search"```
